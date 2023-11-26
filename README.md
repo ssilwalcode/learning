@@ -9,18 +9,18 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)|✓|
-|[Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)|✓|
-|[Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)|✓|
-|[Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)|✓|
-|[Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)|✓|
-|[Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)|✓|
-|[Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)|✓|
-|[Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)|✓|
-|[Datacamp: Developing Python Packages](https://www.datacamp.com/courses/developing-python-packages)|✓|
-|[Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)|✓|
-|[Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)|✓|
-|[Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)|✓|
-|[Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)|✓|
+|[Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)||
+|[Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)||
+|[Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)||
+|[Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)||
+|[Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)||
+|[Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)||
+|[Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)||
+|[Datacamp: Developing Python Packages](https://www.datacamp.com/courses/developing-python-packages)||
+|[Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)||
+|[Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)||
+|[Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)||
+|[Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)||
 |[Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)||
 |[Book: Python 201](https://leanpub.com/python201)||
 |[Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)||
@@ -30,42 +30,42 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|✓|
+|[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)||
 |[Book: The Tech Resume Inside Out](https://thetechresume.com)|✓|
-|[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)|✓|
-|[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)|✓|
+|[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)||
+|[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)||
 
 
 ### Linux & Command Line
 
 |Resource|Progress|
 |---|---|
-|[Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)|✓|
-|[Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)|✓|
-|[Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)|✓|
-|[MIT: The Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)|✓|
-|[Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)|✓|
-|[Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)|✓|
-|[Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)|✓|
+|[Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)||
+|[Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)||
+|[Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)||
+|[MIT: The Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)||
+|[Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)||
+|[Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)||
+|[Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)||
 
 ### Version Control
 
 |Resource|Progress|
 |---|---|
-|[Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)|✓|
-|[Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|✓|
-|[Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|✓|
-|[Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)|✓|
+|[Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)||
+|[Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)||
+|[Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)||
+|[Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)||
 
 ### Databases
 
 |Resource|Progress|
 |---|---|
-|[Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)|✓|
+|[Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)||
 |[Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)||
 |[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)||
 |[Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)||
-|[Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)|✓|
+|[Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)||
 |[Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)||
 |[Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)||
 |[Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)||
